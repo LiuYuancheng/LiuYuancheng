@@ -1,6 +1,6 @@
 # Welcome to YC's Github
 
-- 👋 Hi, I’m @LiuYuancheng
+- 👋 Hi, I’m @[LiuYuancheng](https://www.linkedin.com/in/yuancheng-liu-47b402174/)
 
 - 👀 I’m detail oriented professional with the programming experience in system design, programming, IoT software design, Cyber-security App design,GUI design, Library function deployment, Big-data processing, Web and Android App development. 
   
@@ -16,7 +16,7 @@
   You can click the Preview link to take a look at your changes.
   --->
 
-  ![](doc/img/2022GithubSkyline.gif)
+  ![](doc/img/2023GithubSkyline.gif)
 
   **☀️ Wish you have a good day! And checkout some of my personal project :arrow_down: down below if you're interested!**
 
