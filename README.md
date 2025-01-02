@@ -1,4 +1,4 @@
-# Welcome to YC's Github
+# Welcome to YC's GitHub
 
 - 👋 Hi, I’m @[LiuYuancheng](https://www.linkedin.com/in/yuancheng-liu-47b402174/)
 
@@ -16,7 +16,7 @@
   You can click the Preview link to take a look at your changes.
   --->
 
-  ![](doc/img/2023GithubSkyline.gif)
+  ![](doc/img/2024GithubSkyline.gif)
 
   **☀️ Wish you have a good day! And checkout some of my personal project :arrow_down: down below if you're interested!**
 
