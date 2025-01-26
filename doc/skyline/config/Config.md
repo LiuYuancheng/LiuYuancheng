@@ -156,39 +156,24 @@ Open the stl file with the stl viewer and adjust the light rotation, add the gri
 
 After get the effect you want, select the quick animation then use the gif tool to record the view area to get a gif file:
 
-![](../../img/2024GithubSkyline.gif)
+![](img/s_09.gif)
 
-Now you can add the gif picture file in your readme file. You can also create your own python STL display program as shown in this example: 
+Now you can add the gif picture file in your readme file. You can also create your own python STL display program as shown in this example: https://github.com/LiuYuancheng/LiuYuancheng/blob/main/doc/skyline/stlViewer.py
 
-
-
-
+![](img/s_10.gif)
 
 
 
-
-
-
-
-
-
-
-
-
+------
 
 #### Reference
 
 - https://cli.github.com/
+- https://vtk.org/
 - https://github.com/github/gh-skyline
-
 -  https://docs.github.com/en/repositories/working-with-files/using-files/working-with-non-code-files
 
 
 ------
 
-
-
-
-
-
-
+> Last edit by LiuYuancheng(liu_yuan_cheng@hotmail.com) at 26/01/2025, if you have any problem please free to message me.

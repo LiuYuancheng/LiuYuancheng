@@ -13,7 +13,7 @@ FILE_NAME = "LiuYuancheng-2024-github-skyline.stl"
 
 #-----------------------------------------------------------------------------
 #-----------------------------------------------------------------------------
-class VTKFrame(wx.Frame):
+class stlVTKFrame(wx.Frame):
     def __init__(self, parent, id):
         # create wx.Frame and wxVTKRenderWindowInteractor to put in it
         wx.Frame.__init__(self, parent, id, "STL Viewer", size=(800,600))
@@ -85,6 +85,6 @@ class VTKFrame(wx.Frame):
 
 # start the wx loop
 app = wx.PySimpleApp()
-frame = VTKFrame(None, -1)
+frame = stlVTKFrame(None, -1)
 frame.Show()
 app.MainLoop()
