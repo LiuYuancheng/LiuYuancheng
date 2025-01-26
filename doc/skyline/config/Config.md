@@ -37,7 +37,7 @@ Now the gh-skyline allow you to setup on you local computer, we need to install 
   gh auth login
   ```
 
-- Follow the prompts to authenticate with your GitHub account. For example, if you prefer use web to login, then elect `Github.com` >  `Https` > `Authenticate Git with your GitHub credentials` > `Login with a web browser` , login with your  credentials when the browser pop-up and show GitHub sign in page  . 
+- Follow the prompts to authenticate with your GitHub account. For example, if you prefer use web to login, then select `Github.com` >  `Https` > `Authenticate Git with your GitHub credentials` > `Login with a web browser` , login with your  credentials when the browser pop-up and show GitHub sign in page  . 
 
 ![](img/s_03.png)
 
