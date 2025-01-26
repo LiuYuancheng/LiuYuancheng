@@ -158,7 +158,7 @@ After get the effect you want, select the quick animation then use the gif tool 
 
 ![](../../img/2024GithubSkyline.gif)
 
-Now you can add the gif picture file in your readme file. 
+Now you can add the gif picture file in your readme file. You can also create your own python STL display program as shown in this example: 
 
 
 
